@@ -1,4 +1,3 @@
-# WREN12S
 WREN (Recliner Linear Motor Controller) SDK
 
 ------------
