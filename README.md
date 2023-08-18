@@ -8,7 +8,7 @@ This Arduino IDE example (Settings. Board: ESP8266 12S Dev Module), basically ex
 
 You can also refer to Wiki for ESP-12S GPIO and I2C GPIO Expander (MCP23017). for control and monitor of the board functionality.   WREN 12S SDK Connections
 
-![Display-Type-B](https://ditronix.net/wp-content/uploads/2021/07/WREN-12S-SDK-V2-Component-Overview.jpg?raw=true)
+![Display-Type-B](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller/blob/main/Datasheets%20and%20Information/WREN%2012S%20SDK%20V2%20Component%20Overview.jpg?raw=true)
 
 Example UART Output
 ~~~c++
