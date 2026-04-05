@@ -1,4 +1,4 @@
-## WREN (Recliner Linear Motor Controller) SDK
+## WREN 12S (Recliner Linear Motor Controller) SDK
 
 # [New Version of WREN | ESP32-C5 Recliner Linear Motor Controller | IoT Home Automation, due for release in May 2026  - Click Here](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation)
 
