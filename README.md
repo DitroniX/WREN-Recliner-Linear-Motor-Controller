@@ -1,4 +1,6 @@
-## WREN (Recliner Linear Motor Controller) SDK
+## WREN 12S (Recliner Linear Motor Controller) SDK
+
+# [New Version of WREN | ESP32-C5 Recliner Linear Motor Controller | IoT Home Automation, due for release in May 2026  - Click Here](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation)
 
 DitroniX WREN, is an IoT Linear Motor Controller SDK.  It was initially designed to easily, and safely, retrofit (plug and play), to industry standard Electric Reclining Chairs, with continued use of existing push buttons (or remote hand controller), through isolated input and outputs, whilst also allowing simultaneous electrical control from Smart Home Automation.
 
